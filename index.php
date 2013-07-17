@@ -11,6 +11,13 @@
         //////////////////////////////////////
     
     
+    ##
+    ## IMPORTANT NOTICE
+    ##
+    ## TWITTER RETIRED API V1. SO THIS SCRIPT NO LONGER WORKS.
+    ## MAYBE I THINK ABOUT USING OAUTH AND SO ON BUT THIS IS NOT SURE.
+    ##
+    
 	
 	//////////////////////////////
 	////// EDIT THIS TO YOUR NEEDS
